@@ -1,0 +1,82 @@
+<?php
+
+/**
+ * CiSkeleton Language Metadata - Armenian
+ *
+ * @package     CiSkeleton\Core
+ * @subpackage  Language
+ * @category    Metadata
+ *
+ * @author      Kader Bouyakoub <bkader[at]mail[dot]com>
+ * @copyright   2018-present, Kader Bouyakoub
+ * @license     MIT
+ * @link        https://opensource.org/license/mit
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+return [
+	'name'       => 'Հայերեն',
+	'name_en'    => 'Armenian',
+	'locale'     => 'hy_AM',
+	'tag'        => 'hy-AM',
+	'direction'  => 'ltr',
+	'code'       => 'hy',
+	'flag'       => 'am',
+	'version'    => '1.0.0',
+	'version_id' => 10000,
+
+	// Localized language names.
+	'translations' => [
+		'arabic'      => 'Արաբերեն',
+		'armenian'    => 'Հայերեն',
+		'azerbaijani' => 'Ադրբեջաներեն',
+		'bengali'     => 'Բենգալերեն',
+		'brazilian'   => 'Պորտուգալերեն (Բրազիլիա)',
+		'bulgarian'   => 'Բուլղարերեն',
+		'catalan'     => 'Կատալոներեն',
+		'chinese'     => 'Չինարեն (պարզեցված)',
+		'croatian'    => 'Խորվաթերեն',
+		'czech'       => 'Չեխերեն',
+		'danish'      => 'Դանիերեն',
+		'dutch'       => 'Հոլանդերեն',
+		'english'     => 'Անգլերեն',
+		'estonian'    => 'Էստոներեն',
+		'filipino'    => 'Ֆիլիպիներեն',
+		'finnish'     => 'Ֆիններեն',
+		'french'      => 'Ֆրանսերեն',
+		'georgian'    => 'Վրացերեն',
+		'german'      => 'Գերմաներեն',
+		'greek'       => 'Հունարեն',
+		'hindi'       => 'Հինդի',
+		'hungarian'   => 'Հունգարերեն',
+		'indonesian'  => 'Ինդոնեզերեն',
+		'italian'     => 'Իտալերեն',
+		'japanese'    => 'Ճապոներեն',
+		'khmer'       => 'Քմերերեն',
+		'korean'      => 'Կորեերեն',
+		'latvian'     => 'Լատվիերեն',
+		'lithuanian'  => 'Լիտվերեն',
+		'malay'       => 'Մալայերեն',
+		'marathi'     => 'Մարաթհի',
+		'norwegian'   => 'Նորվեգերեն',
+		'persian'     => 'Պարսկերեն',
+		'polish'      => 'Լեհերեն',
+		'portuguese'  => 'Պորտուգալերեն',
+		'romanian'    => 'Ռումիներեն',
+		'russian'     => 'Ռուսերեն',
+		'serbian'     => 'Սերբերեն',
+		'slovak'      => 'Սլովակերեն',
+		'slovenian'   => 'Սլովեներեն',
+		'spanish'     => 'Իսպաներեն',
+		'swahili'     => 'Սուահիլի',
+		'swedish'     => 'Շվեդերեն',
+		'taiwanese'   => 'Չինարեն (ավանդական)',
+		'tamil'       => 'Թամիլերեն',
+		'thai'        => 'Թայերեն',
+		'turkish'     => 'Թուրքերեն',
+		'ukrainian'   => 'Ուկրաիներեն',
+		'urdu'        => 'Ուրդու',
+		'vietnamese'  => 'Վիետնամերեն',
+	],
+];
